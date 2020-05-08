@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "8vk9PyeDebHmzb4Yaz+GmPYF7mAwycFV7r3dUnNmYTiK4NGSrJK1nb/S0PzkAOOTwciybp0l52PaH48SEhrujQ==",
+  "dgSpecHash": "TKMgQZ+9bUe14AaA5Bv++xVs1NA45H1gF/3f+Vyqqj9OSVmbALFv28FjBDYxl0cOflJB9LY2veKiSVaEPdDRtg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vlad\\Desktop\\UTC-N sem II\\Laboratoare\\Informatica Industriala\\Proiect\\Proiect\\New Repository\\WorkshopManagement\\WorkshopManagement.csproj",
+  "projectFilePath": "D:\\AC\\An3 Sem2\\II\\Repository_Proiect_II\\Project-WorkshopManagement\\WorkshopManagement\\WorkshopManagement.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Vlad\\.nuget\\packages\\dragablz\\0.0.3.203\\dragablz.0.0.3.203.nupkg.sha512",
-    "C:\\Users\\Vlad\\.nuget\\packages\\materialdesigncolors\\1.2.4\\materialdesigncolors.1.2.4.nupkg.sha512",
-    "C:\\Users\\Vlad\\.nuget\\packages\\materialdesignthemes\\3.1.1\\materialdesignthemes.3.1.1.nupkg.sha512"
+    "C:\\Users\\gherg\\.nuget\\packages\\dragablz\\0.0.3.203\\dragablz.0.0.3.203.nupkg.sha512",
+    "C:\\Users\\gherg\\.nuget\\packages\\materialdesigncolors\\1.2.4\\materialdesigncolors.1.2.4.nupkg.sha512",
+    "C:\\Users\\gherg\\.nuget\\packages\\materialdesignthemes\\3.1.1\\materialdesignthemes.3.1.1.nupkg.sha512"
   ],
   "logs": [
     {

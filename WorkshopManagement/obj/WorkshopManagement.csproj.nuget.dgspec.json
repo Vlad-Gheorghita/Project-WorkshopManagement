@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vlad\\Desktop\\UTC-N sem II\\Laboratoare\\Informatica Industriala\\Proiect\\Proiect\\New Repository\\WorkshopManagement\\WorkshopManagement.csproj": {}
+    "D:\\AC\\An3 Sem2\\II\\Repository_Proiect_II\\Project-WorkshopManagement\\WorkshopManagement\\WorkshopManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vlad\\Desktop\\UTC-N sem II\\Laboratoare\\Informatica Industriala\\Proiect\\Proiect\\New Repository\\WorkshopManagement\\WorkshopManagement.csproj": {
+    "D:\\AC\\An3 Sem2\\II\\Repository_Proiect_II\\Project-WorkshopManagement\\WorkshopManagement\\WorkshopManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vlad\\Desktop\\UTC-N sem II\\Laboratoare\\Informatica Industriala\\Proiect\\Proiect\\New Repository\\WorkshopManagement\\WorkshopManagement.csproj",
+        "projectUniqueName": "D:\\AC\\An3 Sem2\\II\\Repository_Proiect_II\\Project-WorkshopManagement\\WorkshopManagement\\WorkshopManagement.csproj",
         "projectName": "WorkshopManagement",
-        "projectPath": "C:\\Users\\Vlad\\Desktop\\UTC-N sem II\\Laboratoare\\Informatica Industriala\\Proiect\\Proiect\\New Repository\\WorkshopManagement\\WorkshopManagement.csproj",
-        "packagesPath": "C:\\Users\\Vlad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vlad\\Desktop\\UTC-N sem II\\Laboratoare\\Informatica Industriala\\Proiect\\Proiect\\New Repository\\WorkshopManagement\\obj\\",
+        "projectPath": "D:\\AC\\An3 Sem2\\II\\Repository_Proiect_II\\Project-WorkshopManagement\\WorkshopManagement\\WorkshopManagement.csproj",
+        "packagesPath": "C:\\Users\\gherg\\.nuget\\packages\\",
+        "outputPath": "D:\\AC\\An3 Sem2\\II\\Repository_Proiect_II\\Project-WorkshopManagement\\WorkshopManagement\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Vlad\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\gherg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
