@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8vk9PyeDebHmzb4Yaz+GmPYF7mAwycFV7r3dUnNmYTiK4NGSrJK1nb/S0PzkAOOTwciybp0l52PaH48SEhrujQ==",
+  "dgSpecHash": "YG6/+m0mt2szKA1QM5svnihXa915d/Dd02uiwHdM4UYeSypvLxXkkZvbxd+G955eJMGcHS2gM68QaFqAX71ZVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vlad\\Desktop\\UTC-N sem II\\Laboratoare\\Informatica Industriala\\Proiect\\Proiect\\New Repository\\WorkshopManagement\\WorkshopManagement.csproj",
+  "projectFilePath": "C:\\Users\\Vlad\\Desktop\\UTC-N sem II\\Laboratoare\\Informatica Industriala\\Proiect\\Proiect\\Git Project\\Vlad-Gheorghita\\Project-WorkshopManagement\\WorkshopManagement\\WorkshopManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vlad\\.nuget\\packages\\dragablz\\0.0.3.203\\dragablz.0.0.3.203.nupkg.sha512",
     "C:\\Users\\Vlad\\.nuget\\packages\\materialdesigncolors\\1.2.4\\materialdesigncolors.1.2.4.nupkg.sha512",

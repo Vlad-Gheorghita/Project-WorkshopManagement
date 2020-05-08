@@ -11,7 +11,7 @@
     <Grid>
         <Grid Height="60" VerticalAlignment="Top" Background="#004156">
             <TextBlock Text="Cel mai smecher site de workshop-uri" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="22" FontFamily="Champagne &amp; Limousines" />
-            <Button VerticalAlignment="Center" Background="{x:Null}" BorderBrush="{x:Null}" Click="CloseBtn" Margin="1032,0,0,0">
+            <Button VerticalAlignment="Center" Background="{x:Null}" BorderBrush="{x:Null}" Margin="1032,0,0,0">
                 <materialDesign:PackIcon Kind="TshirtCrew"/>
             </Button>
         </Grid>
@@ -20,7 +20,7 @@
                 <ColumnDefinition Width="263*"/>
                 <ColumnDefinition Width="7*"/>
             </Grid.ColumnDefinitions>
-            <dragablz:TabablzControl SelectionChanged="TabablzControl_SelectionChanged" Grid.ColumnSpan="2" BorderBrush="#FF004156" >
+            <dragablz:TabablzControl Grid.ColumnSpan="2" BorderBrush="#FF004156" >
                 <dragablz:TabablzControl.InterTabController >
                     <dragablz:InterTabController/>
                 </dragablz:TabablzControl.InterTabController>

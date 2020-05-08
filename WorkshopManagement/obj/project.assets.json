@@ -302,11 +302,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vlad\\Desktop\\UTC-N sem II\\Laboratoare\\Informatica Industriala\\Proiect\\Proiect\\New Repository\\WorkshopManagement\\WorkshopManagement.csproj",
+      "projectUniqueName": "C:\\Users\\Vlad\\Desktop\\UTC-N sem II\\Laboratoare\\Informatica Industriala\\Proiect\\Proiect\\Git Project\\Vlad-Gheorghita\\Project-WorkshopManagement\\WorkshopManagement\\WorkshopManagement.csproj",
       "projectName": "WorkshopManagement",
-      "projectPath": "C:\\Users\\Vlad\\Desktop\\UTC-N sem II\\Laboratoare\\Informatica Industriala\\Proiect\\Proiect\\New Repository\\WorkshopManagement\\WorkshopManagement.csproj",
+      "projectPath": "C:\\Users\\Vlad\\Desktop\\UTC-N sem II\\Laboratoare\\Informatica Industriala\\Proiect\\Proiect\\Git Project\\Vlad-Gheorghita\\Project-WorkshopManagement\\WorkshopManagement\\WorkshopManagement.csproj",
       "packagesPath": "C:\\Users\\Vlad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vlad\\Desktop\\UTC-N sem II\\Laboratoare\\Informatica Industriala\\Proiect\\Proiect\\New Repository\\WorkshopManagement\\obj\\",
+      "outputPath": "C:\\Users\\Vlad\\Desktop\\UTC-N sem II\\Laboratoare\\Informatica Industriala\\Proiect\\Proiect\\Git Project\\Vlad-Gheorghita\\Project-WorkshopManagement\\WorkshopManagement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"
