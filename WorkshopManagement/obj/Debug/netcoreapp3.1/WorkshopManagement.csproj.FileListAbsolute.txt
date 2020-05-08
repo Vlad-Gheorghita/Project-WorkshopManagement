@@ -1,0 +1,40 @@
+C:\Users\Ovidiu\source\repos\WorkshopManagement\WorkshopManagement\obj\Debug\netcoreapp3.1\WorkshopManagement.csprojAssemblyReference.cache
+C:\Users\Ovidiu\source\repos\WorkshopManagement\WorkshopManagement\obj\Debug\netcoreapp3.1\Login.g.cs
+C:\Users\Ovidiu\source\repos\WorkshopManagement\WorkshopManagement\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Ovidiu\source\repos\WorkshopManagement\WorkshopManagement\obj\Debug\netcoreapp3.1\Register.g.cs
+C:\Users\Ovidiu\source\repos\WorkshopManagement\WorkshopManagement\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Ovidiu\source\repos\WorkshopManagement\WorkshopManagement\obj\Debug\netcoreapp3.1\WorkshopManagement_MarkupCompile.cache
+C:\Users\Ovidiu\source\repos\WorkshopManagement\WorkshopManagement\obj\Debug\netcoreapp3.1\WorkshopManagement_MarkupCompile.lref
+C:\Users\Ovidiu\source\repos\WorkshopManagement\WorkshopManagement\bin\Debug\netcoreapp3.1\WorkshopManagement.exe
+C:\Users\Ovidiu\source\repos\WorkshopManagement\WorkshopManagement\bin\Debug\netcoreapp3.1\WorkshopManagement.deps.json
+C:\Users\Ovidiu\source\repos\WorkshopManagement\WorkshopManagement\bin\Debug\netcoreapp3.1\WorkshopManagement.runtimeconfig.json
+C:\Users\Ovidiu\source\repos\WorkshopManagement\WorkshopManagement\bin\Debug\netcoreapp3.1\WorkshopManagement.runtimeconfig.dev.json
+C:\Users\Ovidiu\source\repos\WorkshopManagement\WorkshopManagement\bin\Debug\netcoreapp3.1\WorkshopManagement.dll
+C:\Users\Ovidiu\source\repos\WorkshopManagement\WorkshopManagement\bin\Debug\netcoreapp3.1\WorkshopManagement.pdb
+C:\Users\Ovidiu\source\repos\WorkshopManagement\WorkshopManagement\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\Ovidiu\source\repos\WorkshopManagement\WorkshopManagement\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\Ovidiu\source\repos\WorkshopManagement\WorkshopManagement\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Ovidiu\source\repos\WorkshopManagement\WorkshopManagement\obj\Debug\netcoreapp3.1\Login.baml
+C:\Users\Ovidiu\source\repos\WorkshopManagement\WorkshopManagement\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Ovidiu\source\repos\WorkshopManagement\WorkshopManagement\obj\Debug\netcoreapp3.1\Register.baml
+C:\Users\Ovidiu\source\repos\WorkshopManagement\WorkshopManagement\obj\Debug\netcoreapp3.1\WorkshopManagement.g.resources
+C:\Users\Ovidiu\source\repos\WorkshopManagement\WorkshopManagement\obj\Debug\netcoreapp3.1\WorkshopManagement.csproj.CoreCompileInputs.cache
+C:\Users\Ovidiu\source\repos\WorkshopManagement\WorkshopManagement\obj\Debug\netcoreapp3.1\WorkshopManagement.AssemblyInfoInputs.cache
+C:\Users\Ovidiu\source\repos\WorkshopManagement\WorkshopManagement\obj\Debug\netcoreapp3.1\WorkshopManagement.AssemblyInfo.cs
+C:\Users\Ovidiu\source\repos\WorkshopManagement\WorkshopManagement\obj\Debug\netcoreapp3.1\WorkshopManagement.csproj.CopyComplete
+C:\Users\Ovidiu\source\repos\WorkshopManagement\WorkshopManagement\obj\Debug\netcoreapp3.1\WorkshopManagement.dll
+C:\Users\Ovidiu\source\repos\WorkshopManagement\WorkshopManagement\obj\Debug\netcoreapp3.1\WorkshopManagement.pdb
+C:\Users\Ovidiu\source\repos\WorkshopManagement\WorkshopManagement\obj\Debug\netcoreapp3.1\WorkshopManagement.genruntimeconfig.cache
+D:\AC\An3 Sem2\II\WorkshopManagement\WorkshopManagement\obj\Debug\netcoreapp3.1\WorkshopManagement.csprojAssemblyReference.cache
+D:\AC\An3 Sem2\II\WorkshopManagement\WorkshopManagement\obj\Debug\netcoreapp3.1\Login.g.cs
+D:\AC\An3 Sem2\II\WorkshopManagement\WorkshopManagement\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\AC\An3 Sem2\II\WorkshopManagement\WorkshopManagement\obj\Debug\netcoreapp3.1\Register.g.cs
+D:\AC\An3 Sem2\II\WorkshopManagement\WorkshopManagement\obj\Debug\netcoreapp3.1\testVlad.g.cs
+D:\AC\An3 Sem2\II\WorkshopManagement\WorkshopManagement\obj\Debug\netcoreapp3.1\App.g.cs
+D:\AC\An3 Sem2\II\WorkshopManagement\WorkshopManagement\obj\Debug\netcoreapp3.1\WorkshopManagement_MarkupCompile.cache
+D:\AC\An3 Sem2\II\WorkshopManagement\WorkshopManagement\obj\Debug\netcoreapp3.1\WorkshopManagement_MarkupCompile.lref
+D:\AC\An3 Sem2\II\WorkshopManagement\WorkshopManagement\obj\Debug\netcoreapp3.1\WorkshopManagement.dll
+D:\AC\An3 Sem2\II\WorkshopManagement\WorkshopManagement\obj\Debug\netcoreapp3.1\WorkshopManagement.pdb
+C:\Users\Ovidiu\Source\Repos\WorkshopManagement\WorkshopManagement\obj\Debug\netcoreapp3.1\View\Login.g.cs
+C:\Users\Ovidiu\Source\Repos\WorkshopManagement\WorkshopManagement\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+C:\Users\Ovidiu\Source\Repos\WorkshopManagement\WorkshopManagement\obj\Debug\netcoreapp3.1\View\Register.g.cs

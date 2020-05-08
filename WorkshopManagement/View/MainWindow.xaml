@@ -1,0 +1,48 @@
+﻿<Window x:Class="WorkshopManagement.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WorkshopManagement"
+        mc:Ignorable="d"
+        xmlns:dragablz="clr-namespace:Dragablz;assembly=Dragablz"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Height="600" Width="1080" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None">
+    <Grid>
+        <Grid Height="60" VerticalAlignment="Top" Background="#004156">
+            <TextBlock Text="Cel mai smecher site de workshop-uri" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="22" FontFamily="Champagne &amp; Limousines" />
+            <Button VerticalAlignment="Center" Background="{x:Null}" BorderBrush="{x:Null}" Click="CloseBtn" Margin="1032,0,0,0">
+                <materialDesign:PackIcon Kind="TshirtCrew"/>
+            </Button>
+        </Grid>
+        <Grid Margin="0 60 0 0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="263*"/>
+                <ColumnDefinition Width="7*"/>
+            </Grid.ColumnDefinitions>
+            <dragablz:TabablzControl SelectionChanged="TabablzControl_SelectionChanged" Grid.ColumnSpan="2" BorderBrush="#FF004156" >
+                <dragablz:TabablzControl.InterTabController >
+                    <dragablz:InterTabController/>
+                </dragablz:TabablzControl.InterTabController>
+                <TabItem Header="Home">
+                    <TextBlock Text="Hello World!" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                </TabItem>
+                <TabItem Header="Workshops">
+                    <TextBlock Text="Inca nu sunt, va anuntam noi daca e" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </TabItem>
+                <TabItem Header="Forum">
+                    <TextBlock Text="Ask for any question!" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </TabItem>
+                <TabItem Header="Contact">
+                    <TextBlock Text="N-avem" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <materialDesign:PackIcon Kind="Github" Foreground="{DynamicResource PrimaryHueLightBrush}"/>
+                    </TabItem.Header>
+                </TabItem>
+
+            </dragablz:TabablzControl>
+        </Grid>
+    </Grid>
+</Window>
